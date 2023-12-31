@@ -1788,8 +1788,8 @@ $totaldep = $row['total'];
                     
                     <button class="sbtn" onclick="viewtbl();">Customer TBL</button><br>
                     <button class="sbtn"  onclick="analys();">Data Analaysis</button><br>
-                    <button class="sbtn">DB Backup</button><br>
-                    <button class="sbtn">DB Login</button><br>
+                  <a href="http://localhost/sqlbackup/"><button class="sbtn">DB Backup</button><br></a>
+                    <a href="http://localhost/phpmyadmin"><button class="sbtn">DB Login</button><br></a>
                     <button class="sbtn" onclick="home();">Home</button><br>
                     <button class="sbtn" onclick="runupdate();">Year End balancing</button><br>
                     
