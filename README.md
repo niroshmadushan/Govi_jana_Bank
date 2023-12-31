@@ -15,5 +15,4 @@
 
 
 
-![Screenshot 2023-12-31 134950](https://github.com/niroshmadushan/Govi_jana_Bank/assets/127856472/ef8e0d8e-03cf-4750-a4d1-c7886fdc45bc)
-![Screenshot 2023-12-31 135008](https://github.com/niroshmadushan/Govi_jana_Bank/assets/127856472/e7ef91e9-fdcb-4769-9394-a2633817062f)
+
